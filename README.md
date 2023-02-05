@@ -2,7 +2,7 @@
 
 The purpose of this project is to display pokemon data by using PokeAPI. This project was created to complete a take home assessment. This project was developed by using React JS as one of famous framework. Here some step to run this project
 
-## Available Scripts
+## Steps
 
 First, you can clone this repository
 
